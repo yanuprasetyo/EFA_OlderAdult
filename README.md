@@ -71,9 +71,8 @@ The analysis uses the **2021 Family Data Collection (PK21)** survey by BKKBN Ind
 - **N =** 208,448 older adults aged 60–89 years
 - **Original variables =** 45
 - **Final variables for EFA =** 15 (after screening)
-- **Data access:** Contact BKKBN Indonesia at https://www.bkkbn.go.id
 
-> **Note:** The raw data cannot be shared publicly due to data governance agreements with BKKBN. Researchers interested in accessing the data should contact BKKBN directly.
+> **Note:** The raw data cannot be shared publicly due to data governance agreements with BKKBN. Researchers interested in accessing the data should contact researcher directly.
 
 ---
 
@@ -140,7 +139,7 @@ setwd("path/to/EFA_OlderAdult")
 
 If you use this code, please cite:
 
-> [Authors]. (2026). Exploring multidimensional vulnerability among Indonesian older adults: An exploratory factor analysis. *[Journal Name]*. https://doi.org/[DOI]
+...
 
 ---
 
@@ -164,4 +163,4 @@ This code is released under the [MIT License](LICENSE).
 
 For questions about this analysis, please contact:
 - **Institution:** Directorate of Human Development, Population, and Culture, Deputy for Development Policy
-- **Email:** [your email]
+- **Email:** yanuprasetyo85@gmail.com | yanu005@brin.go.id 
